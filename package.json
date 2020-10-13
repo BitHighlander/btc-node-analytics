@@ -1,0 +1,19 @@
+{
+  "name": "btc-node-analyics",
+  "version": "0.0.0",
+  "scripts": {
+    "npm": "npm i",
+    "run": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "https": "^1.0.0",
+    "is-aws-ip": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.4",
+    "nodemon": "^2.0.3",
+    "ts-node": "^8.8.2",
+    "typescript": "^3.8.3"
+  }
+}
